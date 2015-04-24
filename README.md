@@ -12,6 +12,6 @@ GameEngine is released under the MIT license; see LICENSE for more details.
 ## Licenses and Copyright Acknowledgements ##
 
 * Go Bindings for OpenGL (https://github.com/go-gl-legacy/gl): Copyright (c) 2012 The go-gl Authors. All rights reserved.
-* Go Bindings for GLFW 3.0 (github.com/go-gl/glfw3): Copyright (c) 2012 The glfw3-go Authors. All rights reserved.
-* MathGL (https://github.com/go-gl/mathgl): Copyright ©2013 The go-gl Authors. All rights reserved.
+* Go Bindings for GLFW 3.0 (https://github.com/go-gl/glfw3): Copyright (c) 2012 The glfw3-go Authors. All rights reserved.
+* MathGL (https://github.com/go-gl/mathgl): Copyright (c) 2013 The go-gl Authors. All rights reserved.
 * go-xsd (https://github.com/metaleap/go-xsd): Copyright (c) 2014 Phil Schumann
